@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edaagunes&layout=donut&theme=radical)](https://github.com/edaagunes/github-readme-stats) 
    ![Eda's GitHub stats](https://github-readme-stats.vercel.app/api?username=edaagunes&show_icons=true&theme=radical&show=reviews&hide=prs,contribs&showing_icons=true)
 
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edaagunes&theme=react&line_height=40&hide=css"/> </a>
+ <a href="https://github-readme-stats.vercel.app/api?username=edaagunes&show_icons=true&theme=radical&show=reviews&hide=prs,contribs&showing_icons=true"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edaagunes&theme=react&line_height=40&hide=css"/> </a>
 
 
 
