@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 - 🔭 I’m currently working on PlatformGame
 - 🌱 I’m currently learning Unity Engine, C#
 
