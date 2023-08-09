@@ -12,4 +12,11 @@ Here are some ideas to get you started:
   <img height=200 align="center" theme=radical src="https://github-readme-stats.vercel.app/api/top-langs?username=edaagunes&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+<a href="https://github.com/edaagunes/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edaagunes&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/edaagunes/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edaagunes&repo=convoychat" />
+</a>
+
 
