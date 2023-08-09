@@ -8,4 +8,6 @@ Here are some ideas to get you started:
 
 [![Eda's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=edaagunes&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/edaagunes/github-readme-stats#gh-light-mode-only)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edaagunes&hide_progress=true)
+
 
