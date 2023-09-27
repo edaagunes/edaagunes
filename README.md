@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on PlatformGame
 - 🌱 I’m currently learning Unity Engine, C#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edaagunes&layout=donut&theme=radical)](https://github.com/edaagunes/github-readme-stats) 
