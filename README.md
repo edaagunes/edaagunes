@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://github.com/edaagunes/github-readme-stats">
-  <img align="center"   src="https://github-readme-stats.vercel.app/api?username=edaagunes&show_icons=true&theme=dark&show=reviews&hide=prs,contribs" />
+  <img align="center"  height=215 src="https://github-readme-stats.vercel.app/api?username=edaagunes&show_icons=true&theme=dark&show=reviews&hide=prs,contribs" />
 
 </a>
 
