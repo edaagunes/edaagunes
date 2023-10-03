@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://github.com/edaagunes/github-readme-stats">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=edaagunes&show_icons=true&theme=dark&show=reviews&hide=prs,contribs" />
+  <img align="center"  width = 550 src="https://github-readme-stats.vercel.app/api?username=edaagunes&show_icons=true&theme=dark&show=reviews&hide=prs,contribs" />
 
 </a>
 
@@ -33,4 +33,5 @@
 </a>
 
 
-<img align="right"  src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" />
+<img align="right"  src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" />
+
