@@ -11,11 +11,11 @@
 
 
 <a href="https://github.com/edaagunes/github-readme-stats">
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=edaagunes&layout=donut&theme=dark" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=edaagunes&layout=donut&theme=dark" />
 </a>
 
 <a href="https://github.com/edaagunes/github-readme-stats">
-  <img align="center"  width = 550 src="https://github-readme-stats.vercel.app/api?username=edaagunes&show_icons=true&theme=dark&show=reviews&hide=prs,contribs" />
+  <img align="center"   src="https://github-readme-stats.vercel.app/api?username=edaagunes&show_icons=true&theme=dark&show=reviews&hide=prs,contribs" />
 
 </a>
 
