@@ -28,9 +28,6 @@
     <img align="left" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn Profilim" width=100>
 </a>
 
-<a href="https://discord.com/channels/@me" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord Profilim" width=100>
-</a>
 
 
 
