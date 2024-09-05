@@ -26,7 +26,7 @@
 
 ## 📫 How to Reach Me 
 
-<a href="https://www.linkedin.com/in/eda-güneş-4737a0203/" target="_blank">
+<a href="https://www.linkedin.com/in/edaagunes/" target="_blank">
     <img align="left" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn Profilim" width=100>
 </a>
 
