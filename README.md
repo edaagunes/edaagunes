@@ -12,9 +12,10 @@
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=edaagunes&show_icons=true&theme=dark&show=reviews&hide=prs,contribs&width=150" />
 </a>
 
+<!--
 <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=edaagunes&theme=dark&hide_total_contributions=true&hide_longest_streak=true&card_width=150&card_height=150" alt="edaagunes" />
 </p>
-
+-->
 
 ## 💻 Language & Tools
 <p align="left">
