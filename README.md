@@ -6,13 +6,13 @@
  
 :woman_technologist:  I try to take myself one step further every day by producing various projects in **C#** and **.NET**
 
-
+<!--
 <p>
 <a href="https://github.com/edaagunes/github-readme-stats">
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=edaagunes&show_icons=true&theme=dark&show=reviews&hide=prs,contribs&width=150" />
 </a>
 
-<!--
+
 <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=edaagunes&theme=dark&hide_total_contributions=true&hide_longest_streak=true&card_width=150&card_height=150" alt="edaagunes" />
 </p>
 -->
